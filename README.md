@@ -114,14 +114,8 @@ Correto!
 
 ---
 
-## 🪪 Licença
-
-Este projeto está sob a licença **MIT** — sinta-se livre para usar, modificar e aprender com ele.
-
----
-
 ## ✨ Autor
 
-Desenvolvido por **[Seu Nome]**  
-💻 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por **Christian Dower Simões**  
+RA: **2501871**
 
